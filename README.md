@@ -5,7 +5,7 @@ Tomas is originally from east-Africa, and currently a CS student at George Mason
 
 >Skills: Java, C, x86 Assembly, HTML, CSS
 
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tomashseged/) | [Github](https://github.com/tomasSeged) | [Everything else](https://mason.gmu.edu/~tseged/)
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tomashseged/) | [Everything else](https://mason.gmu.edu/~tseged/)
 
 <!--
 **tomasSeged/tomasSeged** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
