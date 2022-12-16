@@ -1,4 +1,11 @@
-### Hi theryjte 👋
+# Tomas Seged
+***Digital Craftsman (Developer/Student)***
+
+Tomas is originally from east-Africa, and currently a CS student at George Mason University in 🇺🇸. He loves crafting java programs, and also enjoys playing with assembly language. In his spare time, he loves playing football(soccer) and hiking.
+
+>Skills: Java, C, x86 Assembly, HTML, CSS
+
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tomashseged/) | [Github](https://github.com/tomasSeged) | [Everything else](https://mason.gmu.edu/~tseged/)
 
 <!--
 **tomasSeged/tomasSeged** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,7 +17,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
